@@ -32,7 +32,7 @@ try:
         f_res(sys.argv[2], sys.argv[3])
     elif sys.argv[1] == "multiplica":
         f_mult(sys.argv[2], sys.argv[3])
-    elif sys.argv[2] == "divide":
+    elif sys.argv[1] == "divide":
         f_div(sys.argv[2], sys.argv[3])
 
 except ValueError:

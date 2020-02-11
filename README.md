@@ -17,7 +17,7 @@ Ejercicio
 - $python3 calc2.py multiplica number1 number2
 - $python3 calc2.py divide number1 number2
 
-#### calc2.py
+#### calc3.py
 
 - $python3 calc3.py suma  number1 number2
 - $python3 calc3.py resta number1 number2

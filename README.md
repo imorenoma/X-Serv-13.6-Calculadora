@@ -24,7 +24,7 @@ Ejercicio
 - $python3 calc3.py multiplica number1 number2
 - $python3 calc3.py divide number1 number2
 
-####Some characteristic of calculadora.py, calc2.py and calc3.py
+#### Some characteristic of calculadora.py, calc2.py and calc3.py
 
 We create two diferent python script to generate a simple calculato
 

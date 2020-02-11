@@ -18,6 +18,7 @@ else:
                     "divide": float(sys.argv[2])/float(sys.argv[3])}
 
         print(operation.__getitem__(sys.argv[1]))
+
     except ZeroDivisionError:
         print("Usage Error: You try to divide by zero")
     except ValueError:

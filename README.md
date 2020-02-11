@@ -15,9 +15,16 @@ Ejercicio
 - $python3 calc2.py suma  number1 number2
 - $python3 calc2.py resta number1 number2
 - $python3 calc2.py multiplica number1 number2
-- $python3 calc.py divide number1 number2
+- $python3 calc2.py divide number1 number2
 
-####Some characteristic of calculadora.py and calc2.py
+#### calc2.py
+
+- $python3 calc3.py suma  number1 number2
+- $python3 calc3.py resta number1 number2
+- $python3 calc3.py multiplica number1 number2
+- $python3 calc3.py divide number1 number2
+
+####Some characteristic of calculadora.py, calc2.py and calc3.py
 
 We create two diferent python script to generate a simple calculato
 
@@ -30,3 +37,6 @@ this file looks like:
 - calc2.py is a refactor code of calculadora.py and here
 we use a dictionary to delelete functions
    
+- calc3.py is similar to calc2.py, but here we use the module
+operator. Operator module have define the operations that we use
+in the calculator (add, sub, mul, and truediv)

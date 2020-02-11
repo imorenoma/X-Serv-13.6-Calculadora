@@ -21,8 +21,10 @@ def f_mult(num1, num2):
 
 
 def f_div(num1, num2):
-    print("your div is: ", float(num1)/float(num2))
-
+    try:
+        print("your div is: ", float(num1)/float(num2))
+    except ZeroDivisionError:
+        print("Usage Error: You try to divided by zero")
 
 try:
 

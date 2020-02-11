@@ -7,7 +7,7 @@ import sys
 CALCULADORA SIMPLE CON PYTHON VERSION 2
 """
 
-if(len(sys.argv)!= 4):
+if len(sys.argv) != 4:
     print("Usage Error: $calc2.py OPERATION Number1 Number2")
 else:
 
